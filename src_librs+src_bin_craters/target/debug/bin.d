@@ -1,0 +1,1 @@
+/Users/lemontreeran/SourceTree/rust-project-patterns/src_librs+src_bin_craters/target/debug/bin.dSYM: /Users/lemontreeran/SourceTree/rust-project-patterns/src_librs+src_bin_craters/src/bin/bin.rs /Users/lemontreeran/SourceTree/rust-project-patterns/src_librs+src_bin_craters/src/lib.rs

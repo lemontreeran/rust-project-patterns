@@ -1,0 +1,9 @@
+[package]
+name = "mylib"
+version = "0.0.1"
+authors = ["Ran Xing <ran.xing@gmail.com>"]
+edition = "2018"
+
+[lib]
+name = "mylib"
+path = "src/lib.rs"

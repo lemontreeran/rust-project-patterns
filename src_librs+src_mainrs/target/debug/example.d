@@ -1,0 +1,1 @@
+/Users/lemontreeran/SourceTree/rust-project-patterns/src_librs+src_mainrs/target/debug/example.dSYM: /Users/lemontreeran/SourceTree/rust-project-patterns/src_librs+src_mainrs/src/lib.rs /Users/lemontreeran/SourceTree/rust-project-patterns/src_librs+src_mainrs/src/main.rs
